@@ -11,7 +11,7 @@ I am a third-year Computer Science major at Saint Martin's University, driven by
 - [Practicing my backend skills]
 - [Certification courses]
 
-## Contact
+## 🕯️ Contact
 
 You can reach me through the following channels:
 
