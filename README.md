@@ -16,7 +16,7 @@ I am a third-year Computer Science major at Saint Martin's University, driven by
 You can reach me through the following channels:
 
 - **Email**: [thieplat@outlook.com] or [lat.thiep@stmartin.edu]
-- **LinkedIn**: [[LinkedIn Profile Link](https://www.linkedin.com/in/lat-thiep-58b1b1285/)]
+- **LinkedIn**: [[LinkedIn](https://www.linkedin.com/in/lat-thiep-58b1b1285/)]
 
 Feel free to get in touch!
 ****
