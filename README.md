@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a third-year Computer Science major at Saint Martin's University, driven by a passion to continuously learn and apply all aspects of software design.
+I am a Computer Science major at Saint Martin's University, driven by a passion to continuously learn and apply all aspects of software design.
 
 ### ✍️ Currently focused on...
 
