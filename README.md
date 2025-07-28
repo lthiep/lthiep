@@ -20,7 +20,7 @@
 - 🔁 Building backend APIs with Spring Boot + PostgreSQL  
 - 🛠️ Deploying small tools, bots, and automations  
 - 🧪 Testing cloud-native workflows (Docker, Kubernetes, etc.)
-- Mastering C++
+- 👓 Mastering C++
 
 ---
 
