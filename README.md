@@ -29,11 +29,6 @@
 </p>
 
 
-#### 💬 Let's Connect
-
-📧 [thieplat@outlook.com](mailto:thieplat@outlook.com) / [lat.thiep@stmartin.edu](mailto:lat.thiep@stmartin.edu)  
-🔗 [linkedin.com/in/lat-thiep](https://www.linkedin.com/in/lat-thiep-58b1b1285/)
-
 <div align="right">
 
 **~** [_lthiep.dev_](https://github.com/lthiep)
